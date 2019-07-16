@@ -1,0 +1,208 @@
+.navbar-nav
+{
+	background: transparent;
+}
+li a
+{
+	float: right;
+	color: black;
+	text-align: center;
+	margin-left: 150px;
+	width:20px;
+}
+#jumbo1
+{
+	height:550px;
+	background-image: url("book13.jpg");
+	background-size: 100% 100%;
+	/*clip-path: polygon(0% 0%, 100% 0%, 100% 75%,0% 100%);
+    position: relative;*/
+    /* background-attachment: fixed; */
+}
+
+#btnlogin
+{
+	border-color: red;
+	background:transparent;
+	border-radius: 25px;
+}
+#btnsign
+{
+	border-color: red;
+	background:transparent;
+	border-radius: 25px;
+}
+#btnlogin:hover
+{
+	background-color: black;
+}
+#btnsign:hover
+{
+	background-color: black;
+}
+.nav.navbar-nav li a:hover
+{
+   /* border-radius: 25px; */
+   /* background-color: red; */
+   border-bottom: 2px solid rgb(7, 228, 217);
+   /* color:white; */
+}
+#jumbo2
+{
+	background-color: rgba(255, 72, 0, 0.733);
+	margin-top:-33px;
+}
+.glyphicon-home
+{
+
+	font-size:35px;
+}
+.card-header
+{
+	height:100px;
+}
+.card
+{
+	border:none;
+}
+#over1
+{
+	height:250px; 
+	width:440px; 
+	/* margin-top:-63px; 
+	margin-left:-31px; */
+	margin-top:-250px;
+	margin-left:-30px;
+	background-color:grey;
+	opacity:0.5;
+	
+}
+.text
+{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+}
+/* #img1
+{
+	transform: scaleY(0);
+          transition: transform .5s;
+          overflow: hidden;
+          
+} */
+/* #img1:hover #over1
+{
+	
+	  transform: scaleY(1);
+   
+} */
+#over2
+{
+	height:250px; 
+	width:440px; 
+	margin-top:-250px;
+	margin-left:-32px;
+	background-color:grey;
+	opacity:0.5;
+}
+#over3
+{
+	height:250px; 
+	width:465px;
+	margin-top:-250px;
+	margin-left:-32px;
+	background-color:grey;
+	opacity:0.5;
+}
+#over4
+{
+	height:250px; 
+	width:440px;
+	margin-top:-250px;
+	margin-left:-32px;
+	background-color:grey;
+	opacity:0.5;
+}
+#over5
+{
+	height:250px; 
+	width:440px;
+	margin-top:-250px;
+	margin-left:-32px;
+	background-color:grey;
+	opacity:0.5;
+}
+#over6
+{
+	height:250px; 
+	width:465px;
+	margin-top:-250px;
+	margin-left:-32px;
+	background-color:grey;
+	opacity:0.5;
+}
+/* #typewriter h1
+{
+  overflow:hidden;
+white-space:nowrap;
+margin:0 auto;
+letter-spacing: .15em;
+  animation: typing 3.5s steps(40,end),
+blink-caret .75s step-end infinite;
+
+}
+
+@keyframes typing
+{
+  from
+  {
+    width:0
+  }
+
+  to
+  { width:100%}
+}
+
+@keyframes blink-caret
+
+{
+  from,to{border-color:transpasrent}
+  50% {border-color:white}
+}
+
+#text1 h1
+{
+  overflow:hidden;
+white-space:nowrap;
+margin:0 auto;
+letter-spacing: .15em;
+  animation: typing2 3.5s steps(80,end),
+blink-caret2 .75s step-end infinite;
+
+}
+
+@keyframes typing2
+{
+  from
+  {
+    width:0
+  }
+
+  to
+  { width:100%}
+}
+
+@keyframes blink-caret2
+
+{
+  from,to{border-color:transpasrent}
+  50% {border-color:white}
+}
+ */
+
+
+
+
+
+
+

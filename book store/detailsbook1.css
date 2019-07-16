@@ -1,0 +1,605 @@
+#btnmore
+{
+    float:left;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    margin-top:-100px;
+    margin-left:350px;
+    width:115px;
+    height:30px;
+    
+}
+#jtop
+{
+    background-image: url(bookdetails3.jpg);
+    background-size:100% 100%;
+    background-attachment: fixed;
+    
+}
+
+
+#btnmore:hover
+{
+    background-color:gray;
+}
+.navbar-default
+{
+    position:absolute;
+    z-index: 10;
+    margin-top:80px;
+    /* margin-left:80px; */
+    background: transparent;
+    border: none;
+    
+}
+.navbar-nav 
+{
+    margin-left:250px;
+    /* float: right;
+     */
+     font-size: 20px;
+     
+}
+.nav.navbar-nav li a
+{
+    color: red;
+}
+.nav.navbar-nav li a:hover
+{
+   /* border-radius: 25px; */
+   /* background-color: red; */
+   border-bottom: 2px solid rgb(7, 228, 217);
+   color:white;
+}
+.navbar-header .navbar-brand 
+      {
+        color: white;
+        font-size: 30px;
+        margin-right:-50px;
+      }
+
+
+      #booktitle
+      {
+          margin-left:90px;
+      }
+
+      .dropdown
+      {
+          margin-left:65px;
+         
+      }
+      #dd
+      {
+          width:300px;
+          background-color: white;
+          color:black;
+      }
+      #dd2
+      {
+          width:300px;
+          background-color: white;
+          color:black;
+          margin-left:-33px;
+      }
+      #btnfind
+      {
+          color: white;
+          background-color:black;
+          height:35px;
+          width:230px;
+          border-radius: 25px;
+      }
+      #wellotherbooks
+      {
+          width:405px;
+          height:100px;
+          margin-top:470px;
+          margin-left:-25px;
+      }
+      #well1detail
+       {
+        height:500px;
+        width:400px;
+        background-image:url('book9.jpg');
+        background-size: 100% 100%;
+        float:left;
+       }
+      #innerjumbo
+      {
+          background-color: white;
+          height:700px;
+          width:1150px;
+          margin-left:100px;
+      }
+
+      #small1
+      {
+          height:79px;
+          width:75px;
+          margin-top:-10px;
+          float:left;
+          margin-left:-20px;
+          background-image:url('book10.jpg');
+        background-size: 100% 100%;
+         
+
+      }
+      #small1:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+
+      #small2
+      {
+          height:79px;
+          width:75px;
+          margin-top:-10px;
+          margin-left:-12px; 
+          background-image:url('book11.jpg');
+          background-size: 100% 100%;
+          
+      }
+
+
+      #small2:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+      #small3
+      {
+          height:79px;
+          width:75px;
+          margin-top:-10px;
+         margin-left:-10px; 
+         background-image:url('book12.jpg');
+         background-size: 100% 100%;
+         
+      }
+
+      #small3:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+      #small4
+      {
+          height:79px;
+          width:75px;
+          margin-top:-10px;
+         /* margin-left:-20px; */
+         background-image:url('book20.jpg');
+        background-size: 100% 100%;
+        
+      }
+
+      #small4:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+
+      #title
+      {
+          float:right;
+          font-family:Georgia, 'Times New Roman', Times, serif;
+          font-size:32px;
+          margin-right:100px;
+
+      }
+
+      #paratitle1
+      {
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          font-size: 20px;
+          float:right;
+          margin-top:40px;
+          margin-right:110px;
+      }
+
+      #panelrs
+      {
+          float:right;
+      }
+
+      #panheading
+      {
+        height:80px;
+        width:350px;
+      }
+      #panbody
+      {
+        height:150px;
+        width:350px;
+      }
+
+      #panelrs
+      {
+          margin-right:173px;
+          margin-top:35px;
+      }
+
+      #num
+      {
+          float:left;
+          width:62px;
+          margin-top:40px;
+          margin-left:-80px;
+      }
+      #cart
+        {
+        margin-top:40px;
+        background-color:black;
+        border-radius: 25px;
+        color:white;
+        }
+    #cart:hover
+    {
+        background-color:grey;
+    }
+
+    #booktable
+    {
+        float:left;
+    }
+
+    #detailtable
+    {
+        float:left;
+        font-size:30px;
+        color:black;
+        margin-left:35px;
+    }
+
+    table
+    {
+        float:left;
+        margin-top:50px;
+        font-size:20px;
+        margin-left:35px;
+    }
+
+    #author
+    {
+        float:left;
+        font-size:30px;
+        color:black;
+        margin-left:75px;
+    }
+    #nameauther
+    {
+        float:left;
+        font-size:25px;
+        color:black;
+        margin-top:50px;
+        margin-left:-146px;
+    }
+    #autherpara
+    {
+        float:right;
+        font-size:25px;
+        
+        margin-top:80px;
+    }
+    #desc
+    {
+        text-align: left;
+        font-size: 35px;
+        color:black;
+    }
+
+    #descpara
+    {
+        text-align: left;
+        font-size: 25px;
+        
+    }
+
+    
+       #populer
+      {
+          font-size: 25px;
+          color: white;
+          text-align: center;
+      }
+
+      #p1,#p2,#p3,#p4
+      {
+          height:250px;
+          width:300px;
+      }
+      #b1,#b2,#b3,#b4
+      {
+          text-align: center;
+          font-family:Verdana, Geneva, Tahoma, sans-serif;
+          color: black;
+          font: 25px;
+          background:none;
+      }
+      
+      #rs1,#rs2,#rs3,#rs4
+      {
+          font-size: 20px;
+          color:white;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+      }
+      #btn1
+      {
+          border: 1px solid black;
+          color: black;
+          float: left;
+          border-radius: 25px;
+          width:150px;
+          background-color: rgb(235, 225, 225);
+          margin-left:50px;
+          height:30px;
+      }
+
+      #btn2
+      {
+          border: 1px solid black;
+          color: black;
+          float: left;
+          border-radius: 25px;
+          width:150px;
+          background-color: rgb(235, 225, 225);
+          margin-left:50px;
+          height:30px;
+      }
+
+      #h1
+      {
+          background-image: url("book39.jpg");
+          background-size: 100% 100%;
+          height:350px;
+      }
+      #h2
+      {
+          background-image: url("book32.jpg");
+          background-size: 100% 100%;
+          height:350px;
+      }
+      #h3
+      {
+          background-image: url("book40.jpg");
+          background-size: 100% 100%;
+          height:350px;
+      }
+      #h4
+      {
+          background-image: url("book89.jpg");
+          background-size: 100% 100%;
+          height:350px;
+      }
+       
+
+      #b3,#b4
+      {
+          border: none;
+          border-radius: 25px;
+      }
+      
+      #b1,#b2
+      {
+          border: none;
+          border-radius: 25px;
+      }
+      #b1
+      {
+          float:left
+      }
+      #b2
+      {
+          float: right;
+      }
+      
+      #b3
+      {
+          float:left
+      }
+      #b4
+      {
+          float: right;
+      }
+      #btn1:after
+      {
+          content:"";
+          clear: both;
+          display: table;
+      }
+      
+      #btn2:after
+      {
+          content:"";
+          clear: both;
+          display: table;
+      }
+      .panel-footer
+      {
+          height:50px;
+      }
+
+      @media only screen and (max-width:800px) 
+      {
+        .navbar-toggle
+        {
+            margin-left:50px;   
+            margin-top:-95px;
+        }
+        .navbar-brand
+        {
+            margin-top:-105px;
+        }
+        #booktitle
+        {
+            margin-left:-5px;
+        }
+        #btnmore
+        {
+            margin-left:120px;
+            margin-top:-95px;
+        }
+        #dd
+        {
+            margin-left:-53px;
+            margin-top:20px;
+        }
+        #dd2
+        {
+            margin-left:-53px;
+            margin-top:20px;
+        }
+        #btnfind
+        {
+            margin-left:50px;
+            margin-top:20px;
+        }
+       #wellotherbooks
+       {
+           margin-left:-15px;
+           width:345px;
+       }
+       #well1detail
+       {
+        height:500px;
+        width:400px;
+        background-image:url('book9.jpg');
+        background-size: 100% 100%;
+        margin-left:-30px;
+        width:352px;
+       }
+       .navbar-default
+       {
+           margin-top:-30px;
+       }
+
+       #innerjumbo
+       {
+           margin-left:-1px;
+       }
+
+       #small2
+       {
+           margin-left:60px;
+       }
+       #small3:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+      #small2:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+      #small1:hover
+      {
+          box-shadow: 10px 10px 10px grey;
+      }
+       #small3
+       {
+           margin-left:142px;
+           margin-top:-99px;
+       }
+       #small4
+       {
+           margin-left:223px;
+           margin-top:-99px;
+       }
+
+       #title
+       {
+           float:left;
+           margin-top:650px;
+           margin-left:-313px;
+           font-size:20px;
+       }
+       
+       #paratitle1
+       {
+        float:left;
+        margin-top:658px;
+        margin-left:-384px;
+        font-size:15px;
+       }
+
+       #panelrs
+       {
+        float:left;
+        margin-top:855px;
+        margin-left:-430px;
+        
+       }
+       #panheading
+       {
+         height:80px;
+         width:364px;
+       }
+       #panbody
+       {
+         height:150px;
+         width:364px;
+       }
+
+       table
+       {
+        margin-left:-3px;
+       }
+ 
+       #description
+       {
+           background-color: white;
+       }
+
+       #like
+       {
+           margin-top:80px;
+       }
+       #pc2
+       {
+           margin-top:200px;
+       }
+
+       #pc3
+       {
+           margin-top:200px;
+       }
+
+       #pc4
+       {
+           margin-top:200px;
+       }
+      
+       #pc2
+        {
+            margin-top:200px;
+        }
+
+        #pc3
+        {
+            margin-top:200px;
+        }
+
+        #pc4
+        {
+            margin-top:200px;
+        }
+        #descpara
+        {
+            font-size:15px;
+        }
+        #autherpara
+        {
+            font-size:15px;
+        }
+        #p2
+        {
+            margin-top:250px;
+        }
+        #p3
+        {
+            margin-top:250px;
+        }
+        #p4
+        {
+            margin-top:250px;
+        }
+    }
